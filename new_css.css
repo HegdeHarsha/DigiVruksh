@@ -1,0 +1,63 @@
+.nav-tabs .new_css {
+    border-radius: 0;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    color: var(--p-color);
+    font-family: var(--title-font-family);
+    font-size: var(--btn-font-size);
+    font-weight: var(--font-weight-medium);
+    padding: 15px 25px;
+    transition: all 0.3s;
+  }
+
+  .nav-tabs .new_css:first-child {
+    margin-right: 20px;
+  }
+
+  .nav-tabs .nav-item.show .new_css, 
+.nav-tabs .new_css.active,
+.nav-tabs .new_css:focus, 
+.nav-tabs .new_css:hover {
+  border-bottom-color: var(--primary-color);
+  color: var(--primary-color);
+}
+
+.navbar-expand-lg .navbar-nav .new_css {
+    border-radius: var(--border-radius-large);
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .navbar-nav .new_css {
+    display: inline-block;
+    color: var(--white-color);
+    font-family: var(--title-font-family); 
+    font-size: var(--menu-font-size);
+    font-weight: var(--font-weight-medium);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .navbar-nav .new_css.active, 
+  .navbar-nav .new_css:hover {
+    color: var(--primary-color);
+  }
+ 
+  .navbar-expand-lg .navbar-nav .new_css {
+    padding: 0;
+  }
+
+  .nav-tabs .new_css:first-child {
+    margin-right: 5px;
+  }
+
+  .nav-tabs .new_css {
+    font-size: var(--copyright-font-size);
+    padding: 10px;
+  }
+
+  .nav-fill .nav-item,.nav-fill>.new_css{flex:1 1 auto;text-align:center}.nav-justified .nav-item,.nav-justified>.new_css{flex-basis:0;flex-grow:1;text-align:center}

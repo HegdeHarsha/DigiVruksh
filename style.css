@@ -1,0 +1,83 @@
+
+
+h2,h3{color: black;}
+body{margin-top: 100px;}
+#text{
+
+		height: 25px;
+		border-radius: 5px;
+		padding: 4px;
+		border: solid thin #aaa;
+		width: 100%;
+	}
+
+#button{
+		padding: 9px 26px;
+		color: white;
+		background-color: lightblue;
+		border: none;
+	}
+
+#box{
+	    align-items: center;
+		border-radius: 25px;
+		background-color: grey;
+		margin: auto;
+		width: 300px;
+		padding: 20px;
+
+	}
+
+  /*nave*/
+/*li,a,button{
+	font-family: "montserrat",sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: black;
+	text-decoration: none;
+	}*/
+/*#header{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 10px 1%;
+	background-color: black;
+	box-shadow: 0 .1rem 1rem rgba(0,0,0.1)
+
+     }
+
+		
+     .logo{
+     	cursor:pointer;
+     	margin-right:auto;
+		 width: 70px;
+
+     }
+     .nav_link{
+     	list-style: none;
+     }
+     .nav_link li{
+     	display: inline-block;
+     	padding: 0px 20px 
+     }
+     .nav_link li a{
+     	transition: all 0.3s ease 0s;
+		color: wheat;
+     }
+     .nav_link li a:hover {
+		color: white; 
+     }
+     button{
+     	margin-left: 20px;
+     	padding: 9px 26px;
+     	background-color: rgba(0,136,169,1);
+     	border:none;
+     	border-radius: 50px;
+     	cursor: pointer;
+     	transition: all o.3s ease 0s;
+     }
+     button:hover{ 
+     	background-color: rgba(0,136,169,0.8);
+     } 
+
+*/
